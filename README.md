@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @galantin
 - 👀 I’m interested in RPA
 - 🌱 I’m currently learning French language
-- 💞️ I’m looking to collaborate on everyone
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me 
 
 <!---
